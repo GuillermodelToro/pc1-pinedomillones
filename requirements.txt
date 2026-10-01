@@ -1,0 +1,4 @@
+fastapi
+requests
+paho-mqtt
+tzdata
